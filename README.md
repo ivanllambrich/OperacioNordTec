@@ -24,6 +24,7 @@
 ## Configuracions
 
 ## Incidències i solucions
+[!CAUTION]
 
 ## Decisions tècniques
 
