@@ -17,7 +17,7 @@
 
 ## Estat del projecte
 **Fet**
-- [X] RA1
+- [✅] RA1
 
 **Pendent**
 - [] RA2
