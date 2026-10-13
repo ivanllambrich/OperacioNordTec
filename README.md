@@ -25,7 +25,7 @@
 
 ## Incidències i solucions
 > [!CAUTION]
-> Precaució
+> 
 > 
 ## Decisions tècniques
 
