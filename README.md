@@ -35,9 +35,13 @@
 > Precaució
 > 
 ### Missatge d'error exacte
+
 ### Quan: fase i context.
+
 ### Causa: per què passava.
+
 ### Solució: què vam fer.
+
 ### Detectada per: @ivan
 
 ## Decisions tècniques
