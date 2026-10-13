@@ -22,7 +22,9 @@
 ![Esquema de xarxa](img/xarxa.png)
 
 ## Configuracions
-
+> [!NOTE]
+> Configuració del curs.
+> 
 ## Incidències i solucions
 > [!CAUTION]
 > Precaució
