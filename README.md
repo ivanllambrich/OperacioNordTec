@@ -12,11 +12,11 @@
 
 ## Estat del projecte
 **Fet**
--[X] RA1
+- [X] RA1
 
 **Pendent**
--[] RA2
--[] RA3
+- [] RA2
+- [] RA3
 
 ## Arquitectura de xarxa
 ![Esquema de xarxa](img/xarxa.png)
