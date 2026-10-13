@@ -1,8 +1,8 @@
-# Operació Nord Tec - Ivan Llambrich - ASIX1B
+# **Operació Nord Tec - Ivan Llambrich - ASIX1B** 
 
-## Índex
-- [Operació Nord Tec - Ivan Llambrich - ASIX1B](#operació-nord-tec---ivan-llambrich---asix1b)
-  - [Índex](#índex)
+## _Índex_
+- [**Operació Nord Tec - Ivan Llambrich - ASIX1B**](#operació-nord-tec---ivan-llambrich---asix1b)
+  - [_Índex_](#índex)
   - [Estat del projecte](#estat-del-projecte)
   - [Arquitectura de xarxa](#arquitectura-de-xarxa)
   - [Configuracions](#configuracions)
