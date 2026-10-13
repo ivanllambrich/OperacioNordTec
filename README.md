@@ -24,8 +24,7 @@
 ## Configuracions
 
 ## Incidències i solucions
-[!CAUTION]
-Advises about risks or negative outcomes of certain actions.
+> [!CAUTION]
 
 ## Decisions tècniques
 
