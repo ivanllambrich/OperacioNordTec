@@ -24,33 +24,46 @@
 - [] RA3
 
 ## Arquitectura de xarxa
-![Esquema de xarxa](img/xarxa.png)
+![Esquema de xarxa](img/ESTRUCTURA XARXA.png)
 
 ## Configuracions
 > [!NOTE]
 > Configuració del curs.
-> network:
-  version: 2
-  ethernets:
-    enp1s0:
-      dhcp4: true
-    enp2s0:
-      dhcp4: true
-    #kali
-    enp3s0:
-      dhcp4: false
-      addresses:
-        - 10.0.0.1/24
-    #dmz
-    enp4s0:
-      dhcp4: false
-      addresses:
-        - 192.168.10.1/24
-    #lan
-    enp5s0:
-      dhcp4: false
-      addresses:
-        - 192.168.20.1/24
+XARXA ROUTER:
+  > network:
+    version: 2
+    ethernets:
+      enp1s0:
+        dhcp4: true
+      enp2s0:
+        dhcp4: true
+      #kali
+      enp3s0:
+        dhcp4: false
+        addresses:
+          - 10.0.0.1/24
+      #dmz
+      enp4s0:
+        dhcp4: false
+        addresses:
+          - 192.168.10.1/24
+      #lan
+      enp5s0:
+        dhcp4: false
+        addresses:
+          - 192.168.20.1/24
+
+XARXA DMZ:
+      enp1s0:
+        dhcp4: false
+        addresses:
+          - 192.168.10.10/24
+
+XARXA LAN:
+      enp1s0:
+        dhcp4: false
+        addresses:
+          - 192.168.20.10/24
 ## Incidències i solucions
 > [!CAUTION]
 > Precaució
