@@ -24,7 +24,7 @@
 - [] RA3
 
 ## Arquitectura de xarxa
-![Esquema de xarxa](img/ESTRUCTURA XARXA.png)
+![Esquema de xarxa](img/ESTRUCTURA%20XARXA.png)
 
 ## Configuracions
 > [!NOTE]
